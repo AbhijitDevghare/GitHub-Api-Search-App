@@ -1,0 +1,13 @@
+input{
+    box-sizing: unset;
+    height: 50px;
+    width: 800px;
+    font-size: 16px;
+    padding: 10px 50px;
+
+    text-align: center;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
